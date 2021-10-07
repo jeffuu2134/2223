@@ -23,7 +23,7 @@ Label.Parent = Main
 Label.BackgroundColor3 = Color3.fromRGB(85, 255, 255)
 Label.Size = UDim2.new(0, 288, 0, 37)
 Label.Font = Enum.Font.SourceSans
-Label.Text = "make by your mom"
+Label.Text = "made by your mom"
 Label.TextColor3 = Color3.fromRGB(0, 0, 0)
 Label.TextSize = 14.000
 
